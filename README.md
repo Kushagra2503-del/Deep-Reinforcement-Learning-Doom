@@ -31,6 +31,9 @@ This project is designed to run in **Google Colab** to handle the heavy renderin
 ## 📈 Results
 After 50,000 timesteps of training, the agent successfully learned to:
 * Identify the monster from visual cues.
+
+## 📥 Download Model
+https://github.com/Kushagra2503-del/Deep-Reinforcement-Learning-Doom/releases/download/v1.0/vizdoom_demo_agent.zip
 * Navigate the corridor without getting stuck.
 * Fire accurately to eliminate the target.
 
